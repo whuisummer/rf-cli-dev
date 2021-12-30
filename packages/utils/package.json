@@ -1,10 +1,7 @@
 {
-  "name": "utils",
+  "name": "@rf-cli-dev/utils",
   "version": "1.0.0",
-  "description": "工具库",
-  "keywords": [
-    "utilsutils"
-  ],
+  "description": "> TODO: description",
   "author": "王辉 <hwang090@mail.nfsq.com.cn>",
   "homepage": "https://github.com/whuisummer/rf-cli-dev/tree/main/packages/utils#readme",
   "license": "ISC",
@@ -28,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/whuisummer/rf-cli-dev/issues"
-  },
-  "gitHead": "5fefc2672146a7558e3526b95a61635476bf8741"
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "name": "core",
+  "name": "@rf-cli-dev/core",
   "version": "1.0.0",
-  "description": "核心模块",
-  "keywords": [
-    "core"
-  ],
+  "description": "rf-cli-dev core",
   "author": "王辉 <hwang090@mail.nfsq.com.cn>",
   "homepage": "https://github.com/whuisummer/rf-cli-dev/tree/main/packages/core#readme",
   "license": "ISC",
@@ -28,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/whuisummer/rf-cli-dev/issues"
-  },
-  "gitHead": "5fefc2672146a7558e3526b95a61635476bf8741"
+  }
 }
