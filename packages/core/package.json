@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/whuisummer/rf-cli-dev/issues"
+  },
+  "dependencies": {
+    "@rf-cli-dev/utils": "^1.0.0"
   }
 }
